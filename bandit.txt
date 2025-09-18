@@ -1,0 +1,49 @@
+For "Level 0 → Level 1":
+Password: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If 
+Steps: just call cat on the file name 
+
+For "Level 1 → Level 2":
+Password: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+Steps: to read a file in the home directroy use cat ./filename 
+
+For "Level 2 → Level 3":
+Password: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+Steps: Add a backslash \ which all of the spaces are 
+
+For "Level 3 → Level 4":
+Password: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+Steps: use ls -al to see all files, even the hidden ones 
+
+For "Level 4 → Level 5":
+Password: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+Steps: use the command (find . -type f | xargs ) and look for the file that says ASCII text because that means it is only human-readable 
+
+For "Level 5 → Level 6 ":
+Password: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+Steps: to find a file of a certain size you can use -size XXc(with the XX being the number of bytes and c because bytes are represented by c) 
+
+For "Level 6 → Level 7 ":
+Password:  morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+Steps: When something is own by someone you just write -user username (or -group groups name) 
+
+For "Level 7 → Level 8 ":
+Password: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+Steps: If I want to find a word that is on the same line as the word we know. We can use the command: strings filename.txt | grep “the word we know”
+
+For "Level 8 → Level 9 ":
+Password: 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+Steps: You can use the command uniq -c to get the count of all unique lines : example sort data.txt | uniq -c
+
+For "Level 9 → Level 10":
+Password: FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+Steps:To search for lines that begin with a certain character just use grep “that character”
+
+For "Level 10 → Level 11":
+Password: dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
+Steps:To decode messages use base64 -d 
+
+For "Level 11 → Level 12":
+Password: 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+Steps: There are websites that will rotate the position of things
+
+
