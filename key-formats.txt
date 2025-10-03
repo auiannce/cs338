@@ -1,0 +1,36 @@
+Private Key
+I did cat id_rsa_homework to get my private key then I just copy and pasted it into the decoder with the headers. 
+I expect to find: 
+version
+modulus
+publicExponent
+privateExponent
+prime1
+prime2
+exponent1
+exponent2
+coefficient 
+
+RSAPrivateKey SEQUENCE: 
+version Version INTEGER 0
+modulus INTEGER (3072 bit) 418608486807854202802069420147353311742145023055966190316384679077894…
+publicExponent INTEGER 65537
+privateExponent INTEGER (3069 bit) 642887898396486343775703604648230935606556549286403055607429664909747…
+prime1 INTEGER (1536 bit) 230786764813635640937822706394414039344110057548505952141298684339035…
+prime2 INTEGER (1536 bit) 181383229296484092372775965496034079234002203217479838630553766840805…
+exponent1 INTEGER (1536 bit) 121895781986114678899899796784147000501951106123892359024231410629044…
+exponent2 INTEGER (1535 bit) 109463175029452711253729377471255075267162383683332241293880281860943…
+coefficient INTEGER (1533 bit) 215840611442457917643832048371246699713328485509580605466068865704733…
+
+Public Key
+I expect to find an ssh-rsa and  a long base64 string because by default OpenSSH public keys are stored in their format  
+I first converted it into PEM so I can use the same tools to decode it by using the  ssh-keygen -f id_rsa_homework.pub -e -m pem > id_rsa_homework.pub.pem command and the new name is id_rsa_homework.pub.pem. 
+I found: 
+modulus INTEGER (3072 bit) 418608486807854202802069420147353311742145023055966190316384679077894…
+publicExponent INTEGER 65537
+
+Sanity Check: 
+The keys are validated because Public modulus = Private modulus 
+
+
+
