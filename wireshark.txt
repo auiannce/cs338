@@ -1,0 +1,19 @@
+===== DAYTIME =====
+1)  1  192.168.64.2  129.6.15.27  TCP [SYN] (me asking the daytime server if we can talk and telling them the IP address that I am using.)
+    2  129.6.15.27  192.168.64.2  TCP [SYN, ACK] (the server saying yes, we can talk and telling me that my message was received)
+    3  192.168.64.2  129.6.15.27  TCP [ACK] (me telling the server that their message was received)
+
+2) The client is using port 56714 for this interaction
+3) The client needs a port because there are a lot of things running on my computer at once so a port tells the server where to send the information that I am asking for)
+4) 4  129.6.15.27  192.168.64.2  DAYTIME  DAYTIME Response
+5) SYN means synchronize, and it is when a computer asks if it can create a TCP connection.
+   ACK means acknowledge, and it is when a computer says Yes, I got your message.
+6) The daytime server initiated the closing of the TCP connection because it sent the first FIN message, and I can tell that because it comes from the server's IP.
+
+ ===== HTTP =====
+1) 5 connections were opened and I know this because I saw 5 sets of FIN frames coming between me and the server. 
+2) Yes I can tell because I see the GET request: 23 192.168.64.2  172.232.221.124  HTTP  403 GET /index.html HTTP/1.1
+3) Yes I found the get request: 35  192.168.64.2  172.232.221.124  HTTP  443 GET /jeff-square-colorado.jpg HTTP/1.1
+
+===== QUESTIONS =====
+What does the black frames mean? 
