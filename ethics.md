@@ -1,0 +1,32 @@
+Auiannce Euwing 
+# Scenario #1: Responsible Reporting of Security Vulnerabilities
+- Questions:
+    - Should I report the bug privately?
+    - What effects would I receive if I published this anonymously? 
+    - What type of information is being spread in private messages?
+    - Am I do only one who noticed this problem? 
+ 
+- Stakeholder
+    - InstaToonz company:
+      - The choice of which information about their app setup they want to make public
+      - Fire and hire anyone they want
+    - Me (Worker):
+      - Pick to stay at a company based on the values of the company 
+      - Voice any concerns that I identify in the app. 
+    - InstaToonz Users:
+      - The choice of what messages/information they want to be public and private 
+- Missing Information
+  - The Terms and Conditions file that many apps have when you first download them.
+  - How much do I really need this job? Like, am I poor and barely can pay bills with no support system, or do I have other choices?
+  - Do I live in North Carolina and if not how nice and understanding is my branch of the company? 
+- Possible Actions
+  - Go to my bosses and report the bug that I found and how I think we could fix it. 
+     - consequences: I could lose my job and be sued, which would be hard to pay for with no job. I could also cause people to boycott the app again.
+  - Post about the problem anonymously 
+     - consequences: I could loose my job and go to jail for breaking my contract if the post ever gets traced back to me. 
+  - Stay quiet and just never use the app myself 
+     - consequences: Many people's private messages will be put at risk if we get attacked
+- ACM Code of Ethics
+  - The parts about being honest and trustworthy, and respecting privacy, have helped me realize that this is truly an ethical problem, and no matter if my job is at risk I need to report this problem.
+- Recommended action
+   - I recommend taking that lead and reporting the problem. Yes, I may be out of a job, but do I even want to work for a toxic company that is actively putting its users at risk? I have also realized that posting it anonymously may cause more trouble than needed. I also now understand that it doesn't matter what type of information is being shared, and if I am the only one to notice this problem. It is a problem so I need to fix it.     
