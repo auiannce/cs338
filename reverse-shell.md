@@ -1,7 +1,7 @@
 Auiannce Euwing
 # Part 1: Installing a PHP web shell
 - The PHP checks $_REQUEST["command"] and passes it to system(). So if you go to the PHP file and give command=whoami, the server runs whoami, and the command's output is sent back in the HTTP response.
-- The pre tag is an HTML element. When you wrap command output in <pre>, newlines and multiple spaces from system() are shown exactly as they were produced, which makes command output readable. If you leave it out, then whitespace and newlines are collapsed, and formatting is lost.
+- The pre tag is an HTML element. When you wrap command output in pre, newlines and multiple spaces from system() are shown exactly as they were produced, which makes command output readable. If you leave it out, then whitespace and newlines are collapsed, and formatting is lost.
 
 # Part 2: Looking Around
 - The danger website is located in the uploaded directory, which you can get to by doing  /var/www/danger.jeffondich.com
