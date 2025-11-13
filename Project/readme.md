@@ -1,0 +1,33 @@
+- Team: Mary Precious Feutsop Ngouane and Auiannce Euwing
+- Proposal: We would like to make a deep dive video into the Ashley Madison Breach. We plan to go over what the Ashley Madison website was, the timeline of the hack, the technical details (how were passwords and information about the clients stored on the website), and the social impact of the breach (laws that were made and public reaction). We also plan to talk about ways the company could had prevented this attack and also ways users could had protected their information better. 
+- Timeline of Video:
+  - Introduction (~ 2 minutes) :
+    - Background/ context
+    - Motivation for attack
+    - Timeline of the attack
+  - Hypothetical Attack Scenarios with plausible technical details (5-7 minutes)(to the best of our ability):
+    - What is the structure of the security of the company (how can you attack the company)
+    - Could an outsider do the attack? If so, how?
+    - Could an insider do the attack? If so, how?
+  - Impact of the Attack (~ 2 minutes):
+    - Laws that were made
+    - People who were affected by the hack (stakeholders)
+    - Financial impact
+  - Protection(~3 - 5 minutes):
+    - How companies can protect themselves (where could the attack fail)
+    - How users could protect themselves (where could attack fail)
+   
+- Links
+  - Clips in this video is from this website: https://www.pexels.com/
+  - Digital Guardian, “The Timeline of the Ashley Madison Hack” https://www.digitalguardian.com/blog/timeline-ashley-madison-hack
+  - Forbes, “Cybersecurity Lessons Learned From The Ashley Madison Hack” https://www.forbes.com/sites/ericbasu/2015/10/26/cybersecurity-lessons-learned-from-the-ashley-madison-hack/
+  - KrebsOnSecurity, “A Retrospective on the 2015 Ashley Madison Breach” https://krebsonsecurity.com/2022/07/a-retrospective-on-the-2015-ashley-madison-breach/
+  - Auburn University, Harbert College of Business, “Ashley Madison” PDF https://harbert.auburn.edu/binaries/documents/center-for-ethical-organizational-cultures/cases/ashley-madison.pdf
+  - Daily Mail, “The Ashley Madison Suicide: Texas Police Chief Takes His Life” https://www.dailymail.co.uk/news/article-3208907/The-Ashley-Madison-suicide-Texas-police-chief-takes-life-just-days-email-leaked-cheating-website-hack.html
+  - People, “Ashley Madison’s 2015 Hack: The True Story” https://people.com/ashley-madison-dating-website-2015-hack-true-story-8644849
+  - Federal Trade Commission, “FTC Earns Prestigious International Award for AshleyMadison.com Data Breach Investigation” https://www.ftc.gov/news-events/news/press-releases/2017/09/ftc-earns-prestigious-international-award-ashleymadisoncom-data-breach-investigation
+  - Office of the Australian Information Commissioner and Office of the Privacy Commissioner of Canada, “Ashley Madison Joint Investigation” https://www.oaic.gov.au/privacy/privacy-assessments-and-decisions/privacy-decisions/Investigation-inquiry-reports/ashley-madison-joint-investigation
+  - Hacker News discussion https://news.ycombinator.com/item?id=10124152
+  - Securonix, “Inside the Ashley Madison Breach” https://www.securonix.com/blog/inside-the-ashley-madison-breach/
+  - https://en.wikipedia.org/wiki/Ashley_Madison_data_breach
+  
