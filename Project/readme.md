@@ -16,6 +16,7 @@
   - Protection(~3 - 5 minutes):
     - How companies can protect themselves (where could the attack fail)
     - How users could protect themselves (where could attack fail)
+- Video: https://drive.google.com/drive/u/0/folders/1TY7r98BFt1MZM2Z0Gy6MGxe-LEeHf8h8 
    
 - Links
   - Clips in this video is from this website: https://www.pexels.com/
